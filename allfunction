@@ -9,7 +9,7 @@
       "getsenv": {
           "label": "getsenv(localscript);",
           "type": "Method",
-          "description": "Irox Goat",
+          "description": "Returns the global environment table of LocalScript script.",
           "insert": "getsenv"
       },
       "checkcaller": {
