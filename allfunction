@@ -469,6 +469,12 @@
         "description": "Disables Salad's HTTP Spy",
         "insert": "salad.disable_httpspy"
     },
+    "CosmicExecutor": {
+        "label": "CosmicExecutor();",
+        "type": "Method",
+        "description": "lol",
+        "insert": "CosmicExecutor"
+    },
     "salad.dex": {
         "label": "salad.dex();",
         "type": "Method",
